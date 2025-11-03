@@ -24,8 +24,8 @@ print the characters and its huffmancode.
  
 ## Program:
 ```
-Developed by : MUKESH R
-Register no  : 212223240100
+Developed by : SUBASH R
+Register no  : 212223230218
 ```
 ``` Python
 # Get the input String
